@@ -7,15 +7,7 @@
 @import url(css/font-awesome.min.css);
 @import url(css/nice-select.css);
 @import url(css/travel-icon.css);
-@font-face {
-    font-family: "FuturaLT-Book";
-    src: url("fonts/FuturaLT-Book.eot?#iefix") format("embedded-opentype"),
-        url("fonts/FuturaLT-Book.woff") format("woff"),
-        url("fonts/FuturaLT-Book.ttf") format("truetype"),
-        url("fonts/FuturaLT-Book.svg#FuturaLT-Book") format("svg");
-    font-weight: normal;
-    font-style: normal;
-}
+
 /* :: 2.0 Import All CSS */
 /* :: 3.0 Base CSS */
 * {
